@@ -8,3 +8,7 @@
 Tecla Windows y Punto para los emojis
 
 
+- [x] Nueva Lista
+- [x] Otra Lista
+- [x] Ultima Lista
+
