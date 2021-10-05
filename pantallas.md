@@ -28,4 +28,4 @@ Area es $\pi r^2$
 $$A_{tr}=\frac{b\cdot h}{2}$$
 
 
-Prueba de cambios
+Prueba de cambioss 
