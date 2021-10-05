@@ -62,6 +62,10 @@ class f{
     - Pruebas
     - Otras
 
+## Enlaces dentro de un parrafo
+Podemos poner links a 
+[Otros archivos en mi repo](pantallas.md) links a archivos normales en mi repo; ver [ejemplo.html](/ejemplo.html) o a una ruta https [INA](https://www.ina.ac.cr).
+
 
     
 
