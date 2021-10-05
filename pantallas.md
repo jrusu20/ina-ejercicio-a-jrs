@@ -16,3 +16,15 @@ Tecla Windows y Punto para los emojis
 
 
 
+- [x] Nueva Lista
+- [ ] Otra Lista
+- [ ] Ultima Lista
+
+# Simbolos Matemáticos
+Representaciones con Katex
+
+Area es $\pi r^2$
+
+$$A_{tr}=\frac{b\cdot h}{2}$$
+
+
