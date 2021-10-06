@@ -8,4 +8,10 @@ jobs:
             - run: echo "Bienvenido a Github Actions"
             - run: echo "Ejecutando en ${{ runner.os }}"
             - run: echo "Datos en rama ${{ github.ref }} de ${{ github.repository }}"
+            - name: Extraer codigo
+              uses: actions/checkout@v2
+            - run: echo "El repositorio ha sido clonado al equipo"
+            - name: Listar los archivos del repo
+              run: ls ${{ github.workspace }}
+            
     
