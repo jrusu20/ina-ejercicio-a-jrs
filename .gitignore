@@ -8,3 +8,5 @@ node_modules/
 
 # si es un proyecto c#
 build/
+
+# https://www.toptal.com/developers/gitignore
