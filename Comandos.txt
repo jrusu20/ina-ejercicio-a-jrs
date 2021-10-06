@@ -1,1 +1,21 @@
 git clone + URL PARA CLONAR UN REPOSITORIO
+
+git status : para ver el estado
+git pull: para bajar cambios despues de un commit
+
+git config –global user.name  xxxxx
+git config –global user.email xxxxx 
+
+Reviews, issues, meterle mas codigo. 
+
+MarkDown 
+
+# Para encabezados de primer nivel
+## Encabezado segundo nivel
+### encabezado tercer nivel
+
+Sino tiene ningun simbolo se interpreta como una P en HTML.
+
+https://github.com/alexandresanlim/Badges4-README.md-Profile#-contact-
+
+Pagina con diferentes comandos
